@@ -4,10 +4,6 @@ CC = mingw32-gcc
 
 .PHONY: default all clean
 
-OBJ =\
-	main.o \
-	foo.o
-
 default: $(TARGET)
 all: default
 
