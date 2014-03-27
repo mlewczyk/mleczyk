@@ -1,8 +1,9 @@
+#include <stdio.h>
 #include "foo.h"
 
 void foo(void)
 {
 
-  foo();
+printf("Hello World\n");
 
 }

@@ -1,3 +1,2 @@
-#include <stdio.h>
-
+/* Moja funkcja */
 void foo(void); 
